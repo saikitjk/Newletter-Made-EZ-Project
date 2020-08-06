@@ -1,4 +1,6 @@
-# UW-Project-1 : Newsletter
+# UW-Project-1 : Newsletter-Made-EZ
+
+# Team members: Brandon Johnson, Pechanda Von, Gauri Khandke, Jason Kwong
 
 # Goal : 
 
