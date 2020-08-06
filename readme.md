@@ -10,6 +10,8 @@ To provide users with an all-in-one experience to retrieve top stories in differ
 
 # ScreenShots : 
 
+![Screen Shot 2020-08-05 at 10 47 51 PM](https://user-images.githubusercontent.com/34286313/89495856-06e0ed80-d76e-11ea-826c-8d15f03dc36a.png)
+
 # Demo : 
 
 https://sheikb08.github.io/UW-Project-1/
